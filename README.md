@@ -2,10 +2,10 @@
 A web-based user management system built using HTML, CSS, JavaScript, jQuery, PHP, and MongoDB.
 
 Features
-User registration
-User login
-User profile creation and viewing
-User management (create, read, update, delete)
+-User registration
+-User login
+-User profile creation and viewing
+-User management (create, read, update, delete)
 
 
 INSTALL XAMPP
