@@ -1,4 +1,13 @@
-# guvitest.github.io
+# SecureSign
+A web-based user management system built using HTML, CSS, JavaScript, jQuery, PHP, and MongoDB.
+
+Features
+User registration
+User login
+User profile creation and viewing
+User management (create, read, update, delete)
+
+
 INSTALL XAMPP
 1. Download XAMPP for Windows from the official website (https://www.apachefriends.org/download.html).
 
